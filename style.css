@@ -13,6 +13,13 @@
     box-shadow: 4px 4px 4px #0d0d0d;
 }
 
+h1{
+	margin-left: 30px;
+	color: #00b33c;
+	text-shadow: 2px 2px 2px #0d0d0d;
+
+}
+
 #users{
     margin-left: 30px;
 }
@@ -21,4 +28,5 @@ ul li{
     display:flex;
     background: #99ffbb;
     margin-bottom: 10px;
+    font-family: 
 }
